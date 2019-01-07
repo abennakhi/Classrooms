@@ -25,7 +25,7 @@ SECRET_KEY = 'fp-csdeb#g97%$%b3cb6e9e2q%(#ojj7huswk1irk^z_1bh$zn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [104.248.81.147]
+ALLOWED_HOSTS = ['104.248.81.147']
 
 
 # Application definition
